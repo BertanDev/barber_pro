@@ -38,4 +38,4 @@
   ### Web
   A aplicação web foi criada utilizando React JS aliado ao framework NextJS.
 
-  [Ver documentação completa da aplicação web](./web)
+  [Ver documentação completa da aplicação web](./barber-web)
